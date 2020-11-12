@@ -24,3 +24,7 @@ Mit Strafzahlungen: sind am entstandenen wirtschaftlichen Schaden bemessen; gene
 Tools, welche foss compliance checken: fossology, scan code.
 Free Tools suchen aber meist nur nach Angaben im Quellcode. Für matchen von Codeabschnitten muss kommerzielle Software, zB FossID verwendet werden.
 
+Verteilen kommerzieller Software: EULA
+
+Prinzipiell trifft das alles auch auf andere Ressourcen (Bilder etc.) zu
+
