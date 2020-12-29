@@ -1,6 +1,6 @@
 # AboutLicenses
 
-**Das ist eine kurze Sammlung über Lizenzen, Copyright und Nutzungsrechte von Software; insbesondere von Open-Source.**
+**Kurze Sammlung mit praktischen Informationen zu Lizenzen, Copyright und Nutzungsrechte von Software. Insbesondere mit Bezug auf Open-Source.**
 
 ### Lizenzen
 - Keine Lizenz = keine Nutzung erlaubt. In diesem Fall muss Nutzer angeschrieben & gefragt werden.
@@ -20,6 +20,9 @@
 ### Weiteres
 - Strafzahlungen bei Nichteinhaltung von Lizenzen: sind am entstandenen wirtschaftlichen Schaden bemessen; generell immer Abmahnung beim ersten Mal nötig.
 - Tools, welche FOSS-compliance checken: fossology (freeware), scan code (freeware), FossID. Freewares suchen aber meist nur nach Angaben Copyright/Lizenzen im Quellcode. Besser ist allerdings, wenn der verwendete Code mit Datenbanken abgeglichen wird um mögliche Open-Source anteile zu finden. Für das matchen von Codeabschnitten muss kommerzielle Software, zB FossID verwendet werden.
-- Prinzipiell treffen diese Infos auch auf andere Ressourcen (Bilder etc.) zu
+- Prinzipiell treffen diese Infos auch auf andere Ressourcen (Bilder etc.) zu.
+
+### Ressourcen:
+- https://www.bitfactory.io/de/blog/open-source-lizenzen/
 
 
