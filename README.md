@@ -1,33 +1,30 @@
 # AboutLicenses
-Das ist eine kurze Sammlung über Lizenzen, Copyright und Nutzungsrechte von Software; insbesondere von Open-Source.
+**Das ist eine kurze Sammlung über Lizenzen, Copyright und Nutzungsrechte von Software; insbesondere von Open-Source.**
 
-Info about licenses
 
-Keine Lizenz = keine Nutzung erlaubt. In diesem Fall muss Nutzer angeschrieben & gefragt werden
-kein Copyright & keine Lizenz -> auch nicht verwenden?!
+- Keine Lizenz = keine Nutzung erlaubt. In diesem Fall muss Nutzer angeschrieben & gefragt werden.
+- kein Copyright & keine Lizenz -> auch nicht verwenden?!
 
-Copyright != Lizenz, aber in manchen Lizenzen ist Copyright dabei
+- Copyright ist nicht gleich Lizenz, aber in manchen Lizenzen ist Copyright dabei.
 
-Achtung: In anderen Ländern (USA) ist das Verhältnis von Copyright und Lizenz anders geregelt
+- Achtung: In anderen Ländern (USA) ist das Verhältnis von Copyright und Lizenz anders geregelt als in Deutschland.
 
-Copyright: Name + Projekt der verwendeten Ressource muss nur erwähnt werden - es muss aber nicht auf einzelne Teile im eigenen Code verwiesen werden.
-Entsprechender Quellcode muss nicht zur verfügung gestellt werden.
+- Copyright: Name des Copyright-Halters + Projekt der verwendeten Ressource muss nur erwähnt werden - es muss aber nicht auf einzelne Teile im eigenen Code verwiesen werden. Entsprechender Quellcode muss nicht zur verfügung gestellt werden.
 
-Lizenz: muss eingehalten werden; hier wird zB bestimmt ob der Quellcode mitgeliefert werden muss.
+- Lizenz: muss eingehalten werden; hier wird zB geregelt, ob der Quellcode der Software mitgeliefert werden muss.
 
-Wenn kein Copyright dabei steht, verzichtet der Autor darauf und muss nicht erwähnt werden
+- Wenn kein Copyright dabei steht, verzichtet der Autor darauf. Der Autor muss dann nicht erwähnt werden.
 
-Vollständiger Lizenztext muss mitgeliefert werden
+- Vollständiger Lizenztext für alle verwendeten Lizenzen muss mitgeliefert werden
 
-best practise: https://github.com/Hi-LinkDuino/dpkg-dev und firefox about
+- Best Practise Beispiele: https://github.com/Hi-LinkDuino/dpkg-dev und firefox about
 
-Mit Strafzahlungen: sind am entstandenen wirtschaftlichen Schaden bemessen; generell immer Abmahnung beim ersten Mal
+- Strafzahlungen bei Nichteinhaltung von Lizenzen: sind am entstandenen wirtschaftlichen Schaden bemessen; generell immer Abmahnung beim ersten Mal nötig.
 
-Tools, welche foss compliance checken: fossology, scan code.
-Free Tools suchen aber meist nur nach Angaben im Quellcode. Für matchen von Codeabschnitten muss kommerzielle Software, zB FossID verwendet werden.
+- Tools, welche FOSS-compliance checken: fossology (freeware), scan code (freeware), FossID. Free Tools suchen aber meist nur nach Angaben im Quellcode. Für das matchen von Codeabschnitten muss kommerzielle Software, zB FossID verwendet werden.
 
-Verteilen kommerzieller Software: EULA
+- Verteilen kommerzieller Software: meist unter EULA-Lizenz
 
-Prinzipiell trifft das alles auch auf andere Ressourcen (Bilder etc.) zu
+- Prinzipiell treffen diese Infos auch auf andere Ressourcen (Bilder etc.) zu
 
 
