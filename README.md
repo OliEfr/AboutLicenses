@@ -1,4 +1,6 @@
 # AboutLicenses
+Das ist eine kurze Sammlung über Lizenzen, Copyright und Nutzungsrechte von Software; insbesondere von Open-Source.
+
 Info about licenses
 
 Keine Lizenz = keine Nutzung erlaubt. In diesem Fall muss Nutzer angeschrieben & gefragt werden
