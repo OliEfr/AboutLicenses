@@ -18,8 +18,8 @@
 - Verteilen kommerzieller Software: meist unter EULA-Lizenz
 
 ### Weiteres
-- Strafzahlungen bei Nichteinhaltung von Lizenzen: sind am entstandenen wirtschaftlichen Schaden bemessen; generell immer Abmahnung beim ersten Mal nötig.
-- Tools, welche FOSS-compliance checken: fossology (freeware), scan code (freeware), FossID. Freewares suchen aber meist nur nach Angaben Copyright/Lizenzen im Quellcode. Besser ist allerdings, wenn der verwendete Code mit Datenbanken abgeglichen wird um mögliche Open-Source anteile zu finden. Für das matchen von Codeabschnitten muss kommerzielle Software, zB FossID verwendet werden.
+- Strafzahlungen bei Nichteinhaltung von Lizenzen sind am entstandenen wirtschaftlichen Schaden bemessen; generell immer Abmahnung beim ersten Mal nötig.
+- Tools, welche FOSS-compliance checken: fossology (freeware), scan code (freeware), FossID. Freewares suchen meist nur nach Angaben von Copyright/Lizenzen im Quellcode, während kommerzielle Software nach Übereinstimmungen in Code-Datenbanken sucht. D.h. für das matchen von Codeabschnitten muss kommerzielle Software, zB FossID, verwendet werden.
 - Prinzipiell treffen diese Infos auch auf andere Ressourcen (Bilder etc.) zu.
 
 ### Ressourcen:
