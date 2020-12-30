@@ -4,7 +4,7 @@
 
 ### Lizenzen
 - Keine Lizenz = keine Nutzung erlaubt. In diesem Fall muss Nutzer angeschrieben & gefragt werden.
-*- kein Copyright & keine Lizenz -> auch nicht verwenden?!*
+- *kein Copyright & keine Lizenz -> auch nicht verwenden?!*
 - In manchen Lizenzen ist auch Copyright dabei.
 - muss immer eingehalten werden; hier wird zB geregelt, ob der Quellcode der Software mitgeliefert werden muss.
 - Vollständiger Lizenztext für alle verwendeten Lizenzen muss mitgeliefert werden.
