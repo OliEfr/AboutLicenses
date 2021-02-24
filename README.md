@@ -8,7 +8,7 @@
 - In manchen Lizenzen ist auch Copyright dabei.
 - muss immer eingehalten werden; hier wird zB geregelt, ob der Quellcode der Software mitgeliefert werden muss.
 - Vollständiger Lizenztext für alle verwendeten Lizenzen muss mitgeliefert werden.
-- Best Practise Beispiele: https://github.com/Hi-LinkDuino/dpkg-dev und firefox about
+- Best Practise Beispiele: https://github.com/Hi-LinkDuino/dpkg-dev und firefox::about und chrome://credits
 
 ### Copyright
 - Copyright ist nicht gleich Lizenz, aber in manchen Lizenzen ist Copyright dabei.
