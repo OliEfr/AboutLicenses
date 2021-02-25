@@ -1,13 +1,17 @@
 # AboutLicenses
 
 **Kurze Sammlung mit praktischen Informationen zu Lizenzen, Copyright und Nutzungsrechte. Insbesondere mit Bezug auf Open-Source.**
+### Best Practise Beispiele
+- chrome://credits
+- https://github.com/Hi-LinkDuino/dpkg-dev
+- firefox about page
 
 ### Lizenzen
 - Keine Lizenz = keine Nutzung erlaubt. In diesem Fall muss Nutzer angeschrieben & gefragt werden.
 - In manchen Lizenzen ist auch Copyright dabei.
-- muss immer eingehalten werden; hier wird zB geregelt, ob der Quellcode der Software mitgeliefert werden muss.
-- Vollständiger Lizenztext für alle verwendeten Lizenzen muss mitgeliefert werden.
-- Best Practise Beispiele: https://github.com/Hi-LinkDuino/dpkg-dev und firefox::about und chrome://credits
+- Lizenz muss immer eingehalten werden.
+- Lizenz regelt zB, ob der Quellcode der Software mitgeliefert werden muss und in welcher Form er vertrieben werden darf.
+- Vollständiger Lizenztext für alle verwendeten Lizenzen muss mitgeliefert werden (wenn innerhalb der Lizenz gefordert; trifft aber auf die meisten zu. Siehe dazu Best-Practise-Beispiele.
 
 ### Copyright
 - Copyright ist nicht gleich Lizenz, aber in manchen Lizenzen ist Copyright dabei.
