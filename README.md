@@ -1,6 +1,10 @@
 # AboutLicenses
 
-**Meine kurze Sammlung mit praktischen Informationen zu Lizenzen, Copyright und Nutzungsrechte. Insbesondere mit Bezug auf Open-Source. Disclaimer: IANAL und garantiere nicht für die Richtigkeit der Informationen. Bitte selbst informieren!**
+**Meine kurze Sammlung mit praktischen Informationen zu Lizenzen, Copyright und Nutzungsrechte.**
+
+**Die Infos beziehen sich hauptsächlich auf OSS; sind aber prinzipiell für viele Inhalte (Bilder..) anwendbar**
+
+**Disclaimer: IANAL und garantiere nicht für die Richtigkeit der Informationen. Bitte selbst informieren!**
 
 ### Best Practise Beispiele
 - chrome://credits
@@ -25,7 +29,6 @@
 ### Weiteres
 - Strafzahlungen bei Nichteinhaltung von Lizenzen sind am entstandenen wirtschaftlichen Schaden bemessen; generell immer Abmahnung beim ersten Mal nötig.
 - Tools, welche FOSS-compliance checken: fossology (freeware), scan code (freeware), FossID. Freewares suchen meist nur nach Angaben von Copyright/Lizenzen im Quellcode, während kommerzielle Software nach Übereinstimmungen in Code-Datenbanken sucht. D.h. für das matchen von Codeabschnitten muss kommerzielle Software, zB FossID, verwendet werden.
-- Prinzipiell treffen diese Infos auch auf andere Ressourcen (Bilder etc.) zu.
 
 ### Ressourcen:
 - https://www.bitfactory.io/de/blog/open-source-lizenzen/
