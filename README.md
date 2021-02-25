@@ -1,6 +1,7 @@
 # AboutLicenses
 
-**Kurze Sammlung mit praktischen Informationen zu Lizenzen, Copyright und Nutzungsrechte. Insbesondere mit Bezug auf Open-Source.**
+**Meine kurze Sammlung mit praktischen Informationen zu Lizenzen, Copyright und Nutzungsrechte. Insbesondere mit Bezug auf Open-Source. Disclaimer: IANAL und garantiere nicht für die Richtigkeit der Informationen. Bitte selbst informieren!**
+
 ### Best Practise Beispiele
 - chrome://credits
 - https://github.com/Hi-LinkDuino/dpkg-dev
@@ -12,13 +13,14 @@
 - Lizenz muss immer eingehalten werden.
 - Lizenz regelt zB, ob der Quellcode der Software mitgeliefert werden muss und in welcher Form er vertrieben werden darf.
 - Vollständiger Lizenztext für alle verwendeten Lizenzen muss mitgeliefert werden (wenn innerhalb der Lizenz gefordert; trifft aber auf die meisten zu. Siehe dazu Best-Practise-Beispiele.
+- Verteilen kommerzieller Software: meist unter EULA-Lizenz
 
 ### Copyright
 - Copyright ist nicht gleich Lizenz, aber in manchen Lizenzen ist Copyright dabei.
 - Achtung: In anderen Ländern (USA) ist das Verhältnis von Copyright und Lizenz anders geregelt als in Deutschland.
 - Wenn ein Copyright im Quelltext angegeben ist: name des Copyright-Halters + Projekt der verwendeten Ressource muss nur erwähnt werden - es muss aber nicht auf einzelne Teile im Code verwiesen werden. Auch muss der entsprechender Quellcode nicht zur verfügung gestellt werden.
 - Wenn kein Copyright dabei steht, verzichtet der Autor darauf. Der Autor muss dann nicht erwähnt werden.
-- Verteilen kommerzieller Software: meist unter EULA-Lizenz
+
 
 ### Weiteres
 - Strafzahlungen bei Nichteinhaltung von Lizenzen sind am entstandenen wirtschaftlichen Schaden bemessen; generell immer Abmahnung beim ersten Mal nötig.
