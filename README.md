@@ -11,6 +11,10 @@
 - https://github.com/Hi-LinkDuino/dpkg-dev
 - firefox about page
 
+### License-picker
+- https://choosealicense.com/
+- https://ufal.github.io/public-license-selector/
+
 ### Lizenzen
 - Keine Lizenz = keine Nutzung erlaubt. In diesem Fall muss Nutzer angeschrieben & gefragt werden.
 - In manchen Lizenzen ist auch Copyright dabei.
